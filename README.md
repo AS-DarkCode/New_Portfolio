@@ -1,9 +1,9 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://soumyajit.vercel.app/" target="_blank">AS-DarkCode</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/lottie.json" />
 </div>
 
 <br/>
